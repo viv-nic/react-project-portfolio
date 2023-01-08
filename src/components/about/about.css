@@ -20,6 +20,7 @@
 
 .about__me-image {
     border-radius: 2rem;
+    height: 20rem;
     overflow: hidden;
     transform: rotate(10deg);
     transition: var(--transition);
@@ -96,6 +97,10 @@
     .about__me {
         width: 65%;
         margin: 0 auto 3rem;
+    }
+
+    .about__me-image {
+        height: 15rem;
     }
     
     .about__cards {

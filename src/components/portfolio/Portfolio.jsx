@@ -11,44 +11,44 @@ import IMG6 from '../../assets/portfolio6.jpg'
   {
     id: 1,
     image: IMG1,
-    title: 'HTML Website',
-    github: 'https://github.com',
-    demo: 'https:netlify.com'
+    title: 'Building Website using HTML & CSS',
+    github: 'https://github.com/viv-nic/CLG-Foundation-of-Web-Dev-Project-1 ',
+    demo: 'https://clg-foundation-web-dev-project-1.netlify.app'
   },
   {
     id: 2,
     image: IMG2,
-    title: 'HTML Website with CSS styling',
-    github: 'https://github.com',
-    demo: 'https:netlify.com'
+    title: 'Building Website using React',
+    github: 'https://github.com/viv-nic/CLG-React-Assignments',
+    demo: 'https://viv-nic-clg-react-assignments.netlify.app/'
   },
   {
     id: 3,
     image: IMG3,
     title: 'Weather App using JavaScript',
-    github: 'https://github.com',
-    demo: 'https:netlify.com'
+    github: 'https://github.com/viv-nic/JavaScript-Project-2',
+    demo: 'https://viv-nic-js-project-2.netlify.app'
   },
   {
     id: 4,
     image: IMG4,
-    title: 'Rock, Paper and Scissors using JavaScript',
-    github: 'https://github.com',
-    demo: 'https:netlify.com'
+    title: 'Rock, Paper & Scissors using JavaScript',
+    github: 'https://github.com/viv-nic/JavaScript-Project-2',
+    demo: 'https://viv-nic-js-project-2.netlify.app'
   },
   {
     id: 5,
     image: IMG5,
     title: 'Simple TODO List using React',
     github: 'https://github.com',
-    demo: 'https:netlify.com'
+    demo: 'https://viv-nic-clg-react-assignments.netlify.app/'
   },
   {
     id: 6,
     image: IMG6,
-    title: 'Book Search App using API',
+    title: 'Book Search App using React/API',
     github: 'https://github.com',
-    demo: 'https:netlify.com'
+    demo: 'https://viv-nic-clg-react-assignments.netlify.app/'
   },
  ]
 

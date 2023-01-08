@@ -19,7 +19,7 @@ import 'swiper/css/pagination';
 const data = [
   {
     avatar: AVTR1,
-    name: 'Catholic Healthcare',
+    name: 'Philip Boeye',
     review: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vero sapiente earum itaque quis quam eligendi tempora, cupiditate facilis, aliquid ipsam assumenda non illum sequi modi. Ex fuga illum quas commodi.'
   },
   {
@@ -29,12 +29,12 @@ const data = [
   },
   {
     avatar: AVTR3,
-    name: 'Bob Slayer',
+    name: 'Bob Sinyer',
     review: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vero sapiente earum itaque quis quam eligendi tempora, cupiditate facilis, aliquid ipsam assumenda non illum sequi modi. Ex fuga illum quas commodi.'
   },
   {
     avatar: AVTR4,
-    name: 'Jude Looker',
+    name: 'Jude Loker',
     review: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vero sapiente earum itaque quis quam eligendi tempora, cupiditate facilis, aliquid ipsam assumenda non illum sequi modi. Ex fuga illum quas commodi.'
   },
 ]
@@ -60,7 +60,7 @@ const Testimonials = () => {
             return (
               <SwiperSlide key={index} className="testimonial">
                 <div className="client__avatar">
-                  <img src={avatar} />
+                  <img src={avatar} alt="clients" />
                 </div>
                 <h5 className='client__name'>{name}</h5>
                 <small className="client__review">

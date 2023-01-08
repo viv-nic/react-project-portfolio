@@ -55,6 +55,10 @@
    .experience__content {
     padding: 1rem;
    }
+
+   #experience {
+    margin-top: 14rem;
+   }
 }
 
 /* ============= Media Queries (Small Devices) ================= */
@@ -69,7 +73,7 @@
     }
 
     #experience {
-        margin-top: 28rem;
+        margin-top: 36rem;
     }
 
 }
