@@ -60,14 +60,14 @@ textarea {
 }
 
 /* ================= Scoll Up ============== */
-.scroll__up {
+/* .scroll__up {
     position: absolute;
-    right: 7.4rem;
+    right: 7.4rem; */
     /* top: 10rem; */
-    transform: rotate(90deg);
+    /* transform: rotate(90deg);
     font-weight: 300;
     font-size: 0.9rem;
-}
+} */
 
 /* ============= Media Queries (Medium Devices) ================= */
 @media screen and (max-width: 1024px) {

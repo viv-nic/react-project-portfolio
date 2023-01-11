@@ -55,7 +55,7 @@ const Contact = () => {
         </form>
       </div>
 
-      <a href='#' className='scroll__up'>Scroll Up</a>
+      {/* <a href='#' className='scroll__up'>Scroll Up</a> */}
 
     </section>
   )
