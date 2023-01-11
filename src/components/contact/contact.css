@@ -75,6 +75,11 @@ textarea {
         grid-template-columns: 1fr;
         gap: 2rem;
     }
+
+    #contact {
+        margin-top: 3rem;
+        margin-bottom: 10rem;
+    }
 }
 
 /* ============= Media Queries (Small Devices) ================= */
@@ -83,7 +88,8 @@ textarea {
         width: var(--container-width-sm);
     }
 
-    .scroll__up {
-        display: none;
+    #contact {
+        margin-bottom: 22rem;
     }
+
 }

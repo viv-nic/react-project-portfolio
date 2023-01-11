@@ -61,6 +61,10 @@
     .service {
         height: auto;
     }
+
+    #services {
+        margin-bottom: 22rem;
+    }
    
 }
 
@@ -72,6 +76,7 @@
     }
 
     #services {
-        margin-top: 10rem;
+        margin-top: 3rem;
+        margin-bottom: 60rem;
     }
 }

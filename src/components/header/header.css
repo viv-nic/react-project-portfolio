@@ -2,6 +2,7 @@ header {
     height: 100vh;
     padding-top: 7rem;
     overflow: hidden;
+    margin-bottom: 3rem;
 }
 
 .header__container {
@@ -41,24 +42,24 @@ header {
 .me {
     background: linear-gradient(var(--color-primary), transparent);
     width: 22rem;
-    height: 30rem;
+    height: 24rem;
     position: absolute;
     left: calc(50% - 11rem);
     margin-top: 4rem;
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
-    padding: 5rem 1.5rem 1.5rem 1.5rem;
+    padding: 4rem 0.5rem 1rem 1rem;
 }
 
 /* ================= Scoll Down ============== */
-.scroll__down {
+/* .scroll__down {
     position: absolute;
     right: -2.3rem;
     bottom: 5rem;
     transform: rotate(90deg);
     font-weight: 300;
     font-size: 0.9rem;
-}
+} */
 
 /* ============= Media Queries (Medium Devices) ================= */
 @media screen and (max-width: 1024px) {
@@ -85,4 +86,5 @@ header {
     .scroll__down {
         display: none;
     }
+
 }
